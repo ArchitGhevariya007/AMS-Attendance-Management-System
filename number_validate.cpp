@@ -29,7 +29,7 @@ int checkNumberInput(int *input,int Bnd)
 
 void input()
 {   
-    int validate;
+    int validate; 
     int number;
     
     reinput:
