@@ -61,7 +61,7 @@ int main()
     const char *path = DesktopPathArray;  
 
     string command;
-    int check = dirExists(path);
+    int check = dirExists(path); 
 
     //cout<<check<<endl;
 
