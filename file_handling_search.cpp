@@ -40,3 +40,14 @@ Delete(int level) /* for example */
      fin.close();
      fout.close();
      copy "db_temp.dat" to "db.dat"
+
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+   
